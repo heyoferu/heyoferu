@@ -1,9 +1,4 @@
 # Heyo world! It's Feru
-[![Feru's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyoferu&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/heyoferu)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyoferu&layout=vertical&langs_count=10&theme=transparent)](https://github.com/heyoferu)
-
-[![Apuntes](https://github-readme-stats.vercel.app/api/pin/?username=heyoferu&repo=4M_LIDTS&theme=transparent))](https://github.com/heyoferu/4M_LIDTS)
 ## #Me
 - Linux user since 2012
 - Software Development
@@ -24,3 +19,9 @@
 ![Gcloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
 <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/Azure.svg" width="64">
 ## #Social
+
+[![Feru's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyoferu&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/heyoferu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyoferu&layout=vertical&langs_count=10&theme=transparent)](https://github.com/heyoferu)
+
+[![Apuntes](https://github-readme-stats.vercel.app/api/pin/?username=heyoferu&repo=4M_LIDTS&theme=transparent))](https://github.com/heyoferu/4M_LIDTS)
