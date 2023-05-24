@@ -17,4 +17,8 @@
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+![Mongo](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
+![MariaDB](https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg)
+![Gcloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
+<img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/Azure.svg" width="64">
 ## #Social
