@@ -10,6 +10,7 @@
 ## #Skills
 ![Arduino](https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg)
 <img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="64">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" width="64">
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
