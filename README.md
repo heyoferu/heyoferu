@@ -1,6 +1,10 @@
 # Heyo world! It's Feru
 ## #Me
 
+<div style="text-align: center;">
+    <img src="https://media.tenor.com/L4TD4MWFy40AAAAi/kirby.gif" alt="Kirby Rainbow">
+</div>
+
 <div style="text-align: justify;">
 Hello and welcome! I'm Feru, a passionate advocate of Linux, open source, and free software. I enjoy giving conferences on a wide range of IT topics. Sharing knowledge and inspiring others is something I find truly fulfilling. I aim to share my knowledge and experiences in the world of Linux and open source software. I am always eager to learn new technologies and share my expertise through teaching in my free time. I believe in the power of open source and its ability to shape the future of technology.
 </div>
@@ -10,8 +14,6 @@ Hello and welcome! I'm Feru, a passionate advocate of Linux, open source, and fr
 - Activist and enthusiast of free and open-source software
 - Fedora Linux enthusiast
 - Beginner SysAdmin
-
-[![Apuntes](https://github-readme-stats.vercel.app/api/pin/?username=heyoferu&repo=heyoferu.github.io&theme=transparent))](https://heyoferu.github.io)
 
 ## #Social
 ### Reach me on:
