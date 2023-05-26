@@ -11,6 +11,8 @@ Hello and welcome! I'm Feru, a passionate advocate of Linux, open source, and fr
 - Fedora Linux enthusiast
 - Beginner SysAdmin
 
+[![Apuntes](https://github-readme-stats.vercel.app/api/pin/?username=heyoferu&repo=heyoferu.github.io&theme=transparent))](https://heyoferu.github.io)
+
 ## #Social
 ### Reach me on:
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="64">](https://twitter.com/heyoferu)
