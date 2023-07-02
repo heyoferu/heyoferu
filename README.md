@@ -39,6 +39,9 @@ Hello and welcome! I'm Feru, a passionate advocate of Linux, open source, and fr
 ---
 [![Feru's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyoferu&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/heyoferu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyoferu&layout=vertical&langs_count=10&theme=transparent)](https://github.com/heyoferu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyoferu&langs_count=10&theme=transparent)](https://github.com/heyoferu)
 
 [![Apuntes](https://github-readme-stats.vercel.app/api/pin/?username=heyoferu&repo=4M_LIDTS&theme=transparent))](https://github.com/heyoferu/4M_LIDTS)
+
+---
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31vyk2krkxcrjjqli5brmdxadtgi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31vyk2krkxcrjjqli5brmdxadtgi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" /></div> 
