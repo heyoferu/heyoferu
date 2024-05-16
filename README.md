@@ -52,7 +52,7 @@ I am a technology enthusiast with extensive experience in free and open-source s
     <img height="100" src="https://github-readme-stats.vercel.app/api?username=heyoferu&theme=transparent">
 </div>
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=heyoferu&no-bg=true&row=2">
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=heyoferu&no-bg=true&row=2&theme=tokyonight">
 
 
 <!-- 
