@@ -15,7 +15,7 @@ I am a technology enthusiast with extensive experience in free and open-source s
 ```
 - 👨‍💻 Computer science student
 - 🐧 Linux user since 2012
-- 🌟 Free and open-source software (FOSS) activist and enthusiast
+- 🌟 Free and open-source software (FOSS) enthusiast
 - 🎩 Fedora Linux enthusiast
 - 🛠️ Sys Admin
 - 🔒 Cybersecurity enthusiast
