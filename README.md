@@ -4,6 +4,8 @@
 
 ### About me
 
+<img align="right" width="33%" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31vyk2krkxcrjjqli5brmdxadtgi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31vyk2krkxcrjjqli5brmdxadtgi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)">
+
 <div  style="text-align: justify">
 I am a technology enthusiast with extensive experience in free and open-source software  I am always constantly seeking opportunities to learn and grow with new technologies, methodologies, and best practices to improve my skills and knowledge. I have delved deep into the world of Linux, embracing its flexibility, security, and vast ecosystem.
 </siv>
@@ -53,7 +55,3 @@ I am a technology enthusiast with extensive experience in free and open-source s
 </div>
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=heyoferu&no-bg=true&row=1&column=6&theme=tokyonight">
-
-
-<!-- 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31vyk2krkxcrjjqli5brmdxadtgi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31vyk2krkxcrjjqli5brmdxadtgi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" /></div> -->
